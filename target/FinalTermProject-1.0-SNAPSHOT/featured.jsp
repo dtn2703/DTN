@@ -49,8 +49,7 @@
   </section>
   <!--Body-->
    <div class="temp">
-    <h2>Featured Products</h2>
-    <p>To be added</p>
+    <h2>Cửa hàng</h2>
   </div>
   <section id="product1" class="section-p1">
     <form class="filter" action="filter">
